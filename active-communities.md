@@ -1,6 +1,9 @@
-NYC Mesh            - https://nycmesh.net/
-Hyperboria          - https://github.com/hyperboria  
-Toronto Mesh        - https://tomesh.net/                   
-Pittsburgh Mesh     - http://www.pittmesh.net/
-Meta Mesh           - https://www.metamesh.org/
-People's Open Net   - https://peoplesopen.net/
+<h3>Curated List of Active Meshnet Communities.</h3>
+<ul>
+  <li>NYC Mesh            - https://nycmesh.net/</li>
+  <li>Hyperboria          - https://github.com/hyperboria</li>
+  <li>Toronto Mesh        - https://tomesh.net/</li>
+  <li>Pittsburgh Mesh     - http://www.pittmesh.net/</li>
+  <li>Meta Mesh           - https://www.metamesh.org/</li>
+  <li>People's Open Net   - https://peoplesopen.net/</li>
+</ul>
