@@ -8,3 +8,4 @@
   <li>People's Open Net   - https://peoplesopen.net/</li>
   <li>NH Mesh             - https://twitter.com/nhmesh_org</li>
 </ul>
+NYC Mesh has a nice primer to help you start a community: https://nycmesh.net/blog/how/
